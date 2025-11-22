@@ -80,6 +80,9 @@ Loss Function: Categorical Crossentropy with Label Smoothing.
 
 Optimizer: Adam (Phase 1) -> RMSprop (Phase 2).
 
+
+NOTE:- Please Download all the dataset files at one place and then open the zip file using winrar in order to access it
+
 License
 
 This project is open-source and available under the MIT License.
